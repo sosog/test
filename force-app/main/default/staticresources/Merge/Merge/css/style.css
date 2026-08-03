@@ -1,0 +1,262 @@
+﻿.st-sort-ascent:before {
+    content: '\25B2';
+}
+
+.st-sort-descent:before {
+    content: '\25BC';
+}
+
+.table-container{
+    min-height:300px;
+    overflow-y:scroll;
+}
+
+.loading-indicator {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding: 2.7em; 
+    top:100%;
+    left: 50%;
+    transform: translate3d(-50%,-50%, 0);
+    position: absolute;
+
+}
+
+.loading-indicator:before {
+    display: inline-block;
+    margin: 0 0.4em;
+    min-width: 5em;
+    min-height: 5em;
+    border-top: 4px solid #646464;
+    border-right: 4px solid #e6e6e6;
+    border-left: 4px solid #e6e6e6;
+    border-bottom: 4px solid #646464;
+    content: "";
+    -webkit-animation: halfspin 1s ease infinite;
+    -moz-animation: halfspin 1s ease infinite;
+    -o-animation: halfspin 1s ease infinite;
+    animation: halfspin 1s ease infinite;
+    border-radius: 100%; }
+
+
+@-webkit-keyframes halfspin {
+    to {
+        -webkit-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        transform: rotate(180deg); } }
+
+@-moz-keyframes halfspin {
+    to {
+        -webkit-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        transform: rotate(180deg); } }
+
+@keyframes halfspin {
+    to {
+        -webkit-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        transform: rotate(180deg); } }
+
+.virtualRepeatVerticalUsageXml #vertical-container-xml {
+  height: 592px;
+
+ }
+
+.virtualRepeatVerticalUsageXml .header div {
+    display:inline-block;
+ }
+
+.virtualRepeatVerticalUsageXml .header .headerTitle {
+    font-weight: bolder; font-size:14px; width:400px; float:left; text-align:center;
+  }
+
+.virtualRepeatVerticalUsageXml .header .headerButtonPlaceholder  {
+    width:400px; float:left; text-align:center;
+  }
+
+.virtualRepeatVerticalUsageXml .headerButton  {
+    width:700px; float:left; text-align:center;
+  }
+
+.virtualRepeatVerticalUsageXml .repeated-row-xml {
+  box-sizing: border-box;
+  height: 24px;
+  overflow: hidden;
+  padding-top: 0px; 
+}
+
+.virtualRepeatVerticalUsageXml .repeated-row-xml .repeated-row-xml-item  div {
+  display:inline-block;
+ }
+
+.virtualRepeatVerticalUsageXml .repeated-row-xml .repeated-row-xml-item .verticalLine {
+  border-left: thick solid #ff0000;
+}
+
+.virtualRepeatVerticalUsageXml .repeated-row-xml .repeated-row-xml-item  .changed {
+  background-color: #FFD700;
+}
+
+.virtualRepeatVerticalUsageXml .repeated-row-xml .repeated-row-xml-item .left-panel {
+    margin: 0;
+    display: inline-block;
+}
+
+.virtualRepeatVerticalUsageXml .repeated-row-xml .repeated-row-xml-item .right-panel {
+    margin: 50%;
+    display: inline-block;
+}
+
+.virtualRepeatVerticalUsageXml md-content {
+  margin: 16px; }
+
+.virtualRepeatVerticalUsageXml md-virtual-repeat-container {
+  border: solid 1px grey; }
+
+.virtualRepeatVerticalUsageXml .md-virtual-repeat-container .md-virtual-repeat-offsetter div {
+  padding-left: 16px; }
+
+
+
+.virtualRepeatdemoVerticalUsage #vertical-container-txt {
+  height: 592px;
+    width: 800px;
+ }
+
+.virtualRepeatdemoVerticalUsage .header div {
+    display:inline-block;
+ }
+
+.virtualRepeatdemoVerticalUsage .header .headerTitle {
+    font-weight: bolder; font-size:14px; width:400px; float:left; text-align:center;
+  }
+
+.virtualRepeatdemoVerticalUsage .header .headerButtonPlaceholder  {
+    width:400px; float:left; text-align:center;
+  }
+
+.virtualRepeatdemoVerticalUsage .headerButton  {
+    width:700px; float:left; text-align:center;
+  }
+
+.virtualRepeatdemoVerticalUsage .repeated-row {
+  border-bottom: 1px solid #ddd;
+  box-sizing: border-box;
+  height: 24px;
+  overflow: visible;
+  padding-top: 10px; 
+}
+
+.virtualRepeatdemoVerticalUsage .repeated-row .repeated-row-item  div {
+  display:inline-block;
+ }
+
+.virtualRepeatdemoVerticalUsage .repeated-row .repeated-row-item .verticalLine {
+  border-left: thick solid #ff0000;
+}
+
+.virtualRepeatdemoVerticalUsage .repeated-row .repeated-row-item  .changed {
+  background-color: #FFD700;
+}
+
+.virtualRepeatdemoVerticalUsage .repeated-row .repeated-row-item .left-panel {
+    margin: 0;
+    display: inline-block;
+}
+
+.virtualRepeatdemoVerticalUsage .repeated-row .repeated-row-item .right-panel {
+    margin: 50%;
+    display: inline-block;
+}
+
+.virtualRepeatdemoVerticalUsage md-content {
+  margin: 16px; }
+
+.virtualRepeatdemoVerticalUsage md-virtual-repeat-container {
+  border: solid 1px grey; }
+
+.virtualRepeatdemoVerticalUsage .md-virtual-repeat-container .md-virtual-repeat-offsetter div {
+  padding-left: 16px; 
+  padding-top: 1px;}
+
+.btn .btn-default .btn-footer-center   {
+    text-align:center;
+    margin:auto;
+}
+
+.Legend div{
+    margin-left:15px;
+    display:inline-block;
+}
+
+.ie7 .Legend div{
+    display:inline;
+    zoom:1;
+
+
+}
+
+.Updated {    height:20px; width:32px; border:1px solid #808080; background-color: #d3f1ff;}
+.Created { height:20px; width:32px; border:1px solid #808080; background-color: #daffda;}
+.Deleted { height:20px; width:32px;  border:1px solid #808080; background-color: #ffdcdc;}
+
+
+.mouseOverInfo {
+    display: block;
+    left: 22px;
+    bottom: 20px;
+    width: 20em;
+    background-color: #fefdb9;
+    padding: 2px;
+    border: 1px solid black;
+    z-index: 11;
+    opacity: 0;
+    white-space: normal;
+    font-weight: normal;
+    color: #000;
+}
+
+#searchInvoiceHelperText:hover + .flyout{
+ display:block;
+}
+
+#stuff {
+    opacity: 0.0;
+    -webkit-transition: all 500ms ease-in-out;
+    -moz-transition: all 500ms ease-in-out;
+    -ms-transition: all 500ms ease-in-out;
+    -o-transition: all 500ms ease-in-out;
+    transition: all 500ms ease-in-out;
+}
+#hover {
+    width:80px;
+    height:20px;
+    background-color:green;
+    margin-bottom:15px;
+}
+#hover:hover + #stuff {
+    opacity: 1.0;
+}
+
+
+#data {
+    width: 100px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+#data:hover{
+    overflow: visible; 
+    white-space: normal; 
+    width: auto;
+    position: absolute;
+    background-color:#FFF;
+}
+#data:hover+div {
+    margin-top:20px;
+}
