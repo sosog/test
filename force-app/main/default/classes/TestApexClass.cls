@@ -22,7 +22,7 @@ public with sharing class TestApexClass {
 
     // Georgian
     public static final String GEORGIAN_TEXT =
-        'პორტალის მომხმარებლის რეგისტრაცია და დამტკიცება';
+        'პორტალის მომხმარებლის რეგისტრაცია და დამტკიცება არის';
 
     // Armenian
     public static final String ARMENIAN_TEXT =
