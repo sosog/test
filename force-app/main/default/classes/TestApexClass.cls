@@ -14,23 +14,23 @@ public with sharing class TestApexClass {
 
     // Portuguese
     public static final String PORTUGUESE_TEXT =
-        'Classe para executar cÃÂ¡lculos e avaliaÃssssÂ§ÃÂ£o de alÃÂ§adas de aprovaÃÂ§ÃÂ£o de Oportunidade/CotaÃÂ§ÃÂ£o.';
+        'Classe para executar cálculos e avaliação de alçadas de aprovação de Oportunidade/Cotação.';
 
     // Japanese
     public static final String JAPANESE_TEXT =
-        'Ã£ÂÂÃ£ÂÂ¼Ã£ÂÂ¿Ã£ÂÂ«Ã£ÂÂ¦Ã£ÂÂ¼Ã£ÂÂ¶Ã£ÂÂ¼Ã§ÂÂ»Ã©ÂÂ²Ã£ÂÂ¨Ã¦ÂÂ¿Ã¨ÂªÂÃ£ÂÂÃ£ÂÂ­Ã£ÂÂ»Ã£ÂÂ¹';
+        'ポータルユーザー登録と承認プロセス';
 
     // Georgian
     public static final String GEORGIAN_TEXT =
-        'Ã¡ÂÂÃ¡ÂÂÃ¡ÂÂ Ã¡ÂÂ¢Ã¡ÂÂÃ¡ÂÂÃ¡ÂÂÃ¡ÂÂ¡ Ã¡ÂÂÃ¡ÂÂÃ¡ÂÂÃ¡ÂÂ®Ã¡ÂÂÃ¡ÂÂÃ¡ÂÂ Ã¡ÂÂÃ¡ÂÂÃ¡ÂÂÃ¡ÂÂÃ¡ÂÂ¡ Ã¡ÂÂ Ã¡ÂÂÃ¡ÂÂÃ¡ÂÂÃ¡ÂÂ¡Ã¡ÂÂ¢Ã¡ÂÂ Ã¡ÂÂÃ¡ÂÂªÃ¡ÂÂÃ¡ÂÂ Ã¡ÂÂÃ¡ÂÂ Ã¡ÂÂÃ¡ÂÂÃ¡ÂÂÃ¡ÂÂ¢Ã¡ÂÂÃ¡ÂÂÃ¡ÂÂªÃ¡ÂÂÃ¡ÂÂÃ¡ÂÂ';
+        'პორტალის მომხმარებლის რეგისტრაცია და დამტკიცება';
 
     // Armenian
     public static final String ARMENIAN_TEXT =
-        'ÃÂÃÂ¸ÃÂÃÂ¿ÃÂ¡ÃÂ¬ÃÂ« ÃÂÃÂ£ÃÂ¿ÃÂ¾ÃÂ¸ÃÂ²ÃÂ« ÃÂ£ÃÂÃÂ¡ÃÂ¶ÃÂÃÂ¸ÃÂÃÂ´ ÃÂ ÃÂ°ÃÂ¡ÃÂ½ÃÂ¿ÃÂ¡ÃÂ¿ÃÂ¸ÃÂÃÂ´';
+        'Պորտալի օգտվողի գրանցում և հաստատում';
 
     // Arabic
     public static final String ARABIC_TEXT =
-        'ÃÂªÃÂ³ÃÂ¬ÃÂÃÂ ÃÂÃÂ³ÃÂªÃÂ®ÃÂ¯ÃÂ ÃÂ§ÃÂÃÂ¨ÃÂÃÂ§ÃÂ¨ÃÂ© ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ© ÃÂ§ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂ©';
+        'تسجيل مستخدم البوابة وعملية الموافقة';
 
     public TestApexClass() {
     }
