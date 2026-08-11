@@ -26,7 +26,7 @@ public with sharing class TestApexClass {
 
     // Armenian
     public static final String ARMENIAN_TEXT =
-        'Սա հայերեն տեքստ է օգտատիրոջ գրանցման և հաստատման համար։';
+        'Սա հայերեն տեքստ է օգտատիրոջ գրանցման և հաստjjատման համար։';
 
     // Arabic
     public static final String ARABIC_TEXT =
